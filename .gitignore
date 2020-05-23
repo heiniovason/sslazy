@@ -1,0 +1,9 @@
+packages/
+ConsoleApp/bin/
+ConsoleApp/obj/
+ConsoleApp/Properties/
+POC/bin/
+POC/obj/
+.vs/
+bin/
+obj/
