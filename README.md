@@ -22,7 +22,7 @@ Configuring HttpClient ...
 Calling server and waiting for response ...
 StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content:
 System.Net.Http.HttpConnectionResponseContent, Headers:
-  {
+{
   Server: nginx/1.10.3
   Server: (Ubuntu)
   Date: Sat, 23 May 2020 18:12:59 GMT
