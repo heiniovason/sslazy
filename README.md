@@ -2,7 +2,7 @@
 
 **warning:** I'm not an expert on windows security, and this code has not been used for any production system, but merely a proof of concept.
 
-The program iterates all underlying nodes in both *StoreLocation* and *StoreName* when it tries to look up a given certificate. So if you plan on being inspired by this code then please do a security assessment of what impact this could have. I havent gotten around to do this, yet.
+The program iterates all underlying nodes in both *StoreLocation* and *StoreName* when it tries to look up a given certificate. So if you plan on being inspired by this code then please do a security assessment of what impact this potentielly could lead to. I havent gotten around to do this, yet.
 
 
 ## How to (on windows)
